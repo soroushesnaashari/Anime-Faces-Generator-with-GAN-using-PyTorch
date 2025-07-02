@@ -94,6 +94,9 @@ After 50 epochs of training on a diverse anime-face dataset:
   - Some symmetry artifacts at intermediate epochs.  
   - Further training or architectural tweaks (e.g., spectral normalization, deeper networks) can reduce artifacts and improve diversity.
 
+- **Fresh Image**
+[![](images/fresh.png)](https://www.kaggle.com/code/soroushesnaashari/anime-faces-generator-gan-using-pytorch/output)
+
 <br>
 
 ### Repository Contents
